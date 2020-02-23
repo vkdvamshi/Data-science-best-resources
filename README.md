@@ -474,7 +474,7 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
 ### Data Mining
 
- [The 10 Mining Techniques Data Scientists Need for Their Toolbox](https://towardsdatascience.com/the-10-mining-techniques-data-scientists-need-for-their-toolbox-ae15a5733b02)</dt>
+ [The 10 Mining Techniques Data Scientists Need for Their Toolbox](https://builtin.com/data-science/10-data-mining-techniques-data-scientists-need-their-toolbox)</dt>
 
  [Wikipedia Data Science: Working with the World’s Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)</dt>
 
